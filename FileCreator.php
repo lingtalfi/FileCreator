@@ -1,7 +1,7 @@
 <?php
 
 
-namespace FileCreator;
+namespace Ling\FileCreator;
 
 
 class FileCreator
